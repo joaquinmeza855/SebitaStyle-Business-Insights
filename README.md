@@ -10,6 +10,19 @@ El análisis revela un negocio sólido con picos de demanda muy marcados:
 * **Días de Alto Rendimiento:** El viernes y sábado generan el 46.2% de la recaudación total.
 * **Pico de Demanda Absoluto:** La franja horaria de las 18:00 es el momento de mayor intensidad operativa.
 * **Oportunidad Crítica:** El lunes es el día de menor rendimiento, operando a menos de la mitad de la capacidad de un sábado.
+  
+ <img width="1015" height="583" alt="Frecuencia de cortes por franja horaria" src="https://github.com/user-attachments/assets/726c0fbb-edbc-41af-837d-62c0997ef5be" />
+
+
+ <img width="918" height="534" alt="Grafico de Recaudacion sumando los dias" src="https://github.com/user-attachments/assets/bb6339d7-1983-4370-a837-8107f430fb31" />
+
+ 
+ <img width="977" height="688" alt="Grafico mapa de calor por dia y hora" src="https://github.com/user-attachments/assets/41113b6f-7fc6-4165-b27e-aaf9eea3938e" />
+
+ 
+
+
+
 
 ##  Propuestas Estratégicas
 Como resultado del análisis, se proponen las siguientes acciones:
